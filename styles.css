@@ -1,0 +1,55 @@
+body.body{
+    background-color: bisque;
+}
+h1{
+color: brown;
+text-align: center;
+}
+a.contacto{
+    position: relative;
+    left: 1550px;
+    top: 50px;
+}
+a.cafe{
+    position: relative;
+    left: 500px;
+}
+a.horas{
+    position: relative;
+    left: 900px;
+}
+span.telf{
+    color: red;
+}
+span.correo{
+    color: blue;
+}
+p.texto{
+    color: brown;
+}
+h1.horas{
+    display: block;
+    background-color: crimson;
+    color: gold;
+    width: 200px;
+    position: relative;
+    left: 780px;
+}
+main.main{
+    color: brown;
+}
+body.cafeteria{
+    background-color: rgb(255, 207, 96);
+}
+h1.a{
+    text-align: left;
+}
+img.horas{
+    position: relative;
+    left: 580px;
+}
+
+
+
+
+
